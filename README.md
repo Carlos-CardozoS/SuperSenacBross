@@ -67,7 +67,7 @@ Para habilitar o salvamento de pontuações locais dos jogadores:
 ## 👥 Equipe de Desenvolvimento
 
 * **Arthur Cardoso Padilha** — Lógica e Desenvolvimento ([@Padilh4](https://github.com/Padilh4))
-* **Carlos Henrique Cardozo** — Criação de Texturas e Design de Mapas 
+* **Carlos Henrique Cardozo** — Criação de Texturas e Design de Mapas ([Carlos-CardozoS](https://github.com/Carlos-CardozoS))
 * **Mizael Da Rosa Giehl** — Design Principal ([@Mizael-Giehl](https://github.com/Mizael-Giehl))
 
 ---
