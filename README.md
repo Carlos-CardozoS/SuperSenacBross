@@ -6,11 +6,20 @@
 ---
 
 ## 📸 Pré-visualização do Jogo
-![Tela Inicial](assets/telainicial.png)
-![Gameplay](assets/Animação.gif)
-![Gameplay2](assets/mostrando1.png)
-![Gameplay3](assets/mostrando2.png)
-![Gameplay4](assets/fase2.png)
+
+<table>
+  <tr>
+    <td align="center"><b>Tela Inicial</b><br><img src="assets/telainicial.png" width="400"></td>
+    <td align="center"><b>Gameplay</b><br><img src="assets/Animação.gif" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Ação</b><br><img src="assets/mostrando1.png" width="400"></td>
+    <td align="center"><b>Exploração</b><br><img src="assets/mostrando2.png" width="400"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><b>Fase 2</b><br><img src="assets/fase2.png" width="500"></td>
+  </tr>
+</table>
 
 ---
 
