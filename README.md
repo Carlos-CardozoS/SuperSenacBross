@@ -8,9 +8,9 @@
 ## 📸 Pré-visualização do Jogo
 ![Tela Inicial](assets/telainicial.png)
 ![Gameplay](assets/Animação.gif)
-![Gameplay](assets/mostrando1.png)
-![Gameplay](assets/mostrando2.png)
-![Gameplay](assets/fase2.png)
+![Gameplay2](assets/mostrando1.png)
+![Gameplay3](assets/mostrando2.png)
+![Gameplay4](assets/fase2.png)
 
 ---
 
