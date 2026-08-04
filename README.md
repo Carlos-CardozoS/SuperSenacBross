@@ -7,8 +7,8 @@
 
 ## 📸 Pré-visualização do Jogo
 *(Cole aqui as imagens ou GIFs do seu jogo)*
-![Tela Inicial](cole_o_link_da_imagem_aqui.png)
-![Gameplay](cole_o_link_da_imagem_aqui.png)
+![Tela Inicial](assets/telainicial.png)
+![Gameplay](assets/Animação.gif)
 
 ---
 
