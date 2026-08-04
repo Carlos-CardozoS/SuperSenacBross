@@ -6,7 +6,6 @@
 ---
 
 ## 📸 Pré-visualização do Jogo
-*(Cole aqui as imagens ou GIFs do seu jogo)*
 ![Tela Inicial](assets/telainicial.png)
 ![Gameplay](assets/Animação.gif)
 
