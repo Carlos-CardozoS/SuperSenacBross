@@ -9,15 +9,15 @@
 
 <table>
   <tr>
-    <td align="center"><b>Tela Inicial</b><br><img src="assets/telainicial.png" width="400"></td>
+    <td colspan="2" align="center"><b>Tela Inicial</b><br><img src="assets/telainicial.png" width="500"></td>
+  </tr>
+  <tr>
     <td align="center"><b>Gameplay</b><br><img src="assets/Animação.gif" width="400"></td>
-  </tr>
-  <tr>
     <td align="center"><b>Ação</b><br><img src="assets/mostrando1.png" width="400"></td>
-    <td align="center"><b>Exploração</b><br><img src="assets/mostrando2.png" width="400"></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><b>Fase 2</b><br><img src="assets/fase2.png" width="500"></td>
+    <td align="center"><b>Exploração</b><br><img src="assets/mostrando2.png" width="400"></td>
+    <td align="center"><b>Fase 2</b><br><img src="assets/fase2.png" width="400"></td>
   </tr>
 </table>
 
